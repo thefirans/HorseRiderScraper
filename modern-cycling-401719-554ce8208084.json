@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "modern-cycling-401719",
+  "private_key_id": "554ce8208084a887162393bda261ef5b38afbbd8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC9U/9iC09ufSAR\n/liHf7+iAgqdhT0dhrC1iW9ADxU8SATeh056vPJ4Ax4LL8eqUcQNc16kJYv2wihF\nyX5SzsdmpyC4Q0+ADP2m9fYfIDgG33sg+Apu9w4HXE4E8ubscHxCGhZ8WJhSr2Xy\nzP7QCulFkQpfPC0r6yq6u1jKjhpqZ2KvP+pLZjI1B5Eoz6JBFWdjg9isQ0kikRA0\nGU9y4NXYSdjZmFt9H/guK6cgQ/WtkPB6ERE1QjuvZsSorEn0KFw5rombfxYyNXS3\nl6Fg3RGYXy0HOPpwUyw6h1+/HK2PjvBB9vUwbCTBKPfCH6jHJ+f1zYqq9q0dMBFi\n8KebrRxrAgMBAAECggEAT5ggpXdbzXeNJANp9I0gY1u4WsDJEMCvSaKdwrCUnOMq\nKON5euA0j3/AAbP0nQYDBiSahSfDz9mQVMaA9Q85hU590vl5UrwjZy3AaxWAeGM7\nwICG4l+65h1IL4xuyLgBhUiya1RTtW9HzOuhtJThvP1c/uytkOks7ZQVoBJdyJ00\nqrjDAC/OB4K/VhPMXjOM0NxBTEXQqRYtxursxZejlQIVte4Q3jYJ3TbMGsV8Mrj1\nCca5JuV54g0PkfqjAJbj+YCckomYMNJsdzF9Lojr7E9r7ZXkxqRM8fmrt1bCSYrp\npXR9nV2KU8cKZr+Gr0zpy3YB00EsW8jTfQiKe2rdAQKBgQDscQeh4I94qefOW9Me\n9aotx9qE3dyHf7tb1DWxLl2W+dGie7sGBYYTnCspavttQ8FwcqPiejufeLdx+VTO\n3naTsBG2Zg1u9IDghUsABDlb6+DiQZtY4VfYdJywgTPSZR/qWZwGedpwoV09o/x+\nj+pI1oCNHKYzeFsbwe0pLbb4DQKBgQDM/UcFlXq31xWWkL+JqyjRgIUuj5lUrOFi\notscLngov8rFKJuPoSm5k3t/oE6QN12NFgj0n/tN8jwX0qEF+0n5JarkRqG4ibkQ\nY/jkQrcWZ9qJPR/83uD69lHhCPZLjZ5q2OlTC1pUOTRnVQ0Jq1Bq3P+PwW1R1IFE\nqfhsQXYQVwKBgQDm9EGQTdnW86AKYoeG5lClB2LcBhs0AADzYgZQXAnvP3cWT+YP\nq7Wb0iAXBPkzccuyG0kaIGu9Ch2mpvXAXG1XNdUXZfgZOZvptEneakHdGDtCxvMH\njpZQSRgFES+dhEn4kC9n4/8LpZN+coBg4BLpsx0+uY1fGWFla7hNUOo4wQKBgQDJ\nz70BQVXM8mLdleoMVkbcYwQ7f8J7+6v1WNIQn6tKqu+tRTpJoGgcvJcEYkWWc/uV\nMBFnDK3z4jzJU2OWKPx93litXuBOdsCM42+hAhGQbHRZUqVQZfjm+mRIAXPBlE5X\ncO/dAztN2fe+l5w7Xb7RRnwQAmVm/6i4egIKSjQ7BwKBgQDGjIEb1N1Jqh6pCT+y\nKq0LY1EVa2zyCvrEPP3MbnI7bFJXkggnppekKLqP/dTm6iBOm7RqaI47Ek0qBp5P\nPdQIF9EA1ikfaBMHFClFlViiq6MjZ9uIn+szBKxQ4X2oAoJZZc9AHUW9LzGQzalh\nzCuFgoK92rxykyjPGojTLezLDw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "modern-cycling@modern-cycling-401719.iam.gserviceaccount.com",
+  "client_id": "104485083575806813035",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/modern-cycling%40modern-cycling-401719.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
