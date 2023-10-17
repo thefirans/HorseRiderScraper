@@ -151,7 +151,7 @@ def sent_to_sheet(all_data):
         ('K', all_data[10])
     ]
 
-    credentials_path = 'modern-cycling-401719-554ce8208084.json'
+    credentials_path = 'your-project-credentials.json'
     print(credentials_path)
     gc = gspread.service_account(filename=credentials_path)
 
